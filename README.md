@@ -2,4 +2,4 @@
  Aqui temos alguns dos meus códigos (não são muitos pois estou apenas começando na programação)
 
 # Repositórios
- * [Treino de HTML, CSS e JS]("https://pedrovalentinuci.github.io" target="_blank")
+ * [Treino de HTML, CSS e JS](https://pedrovalentinuci.github.io)
